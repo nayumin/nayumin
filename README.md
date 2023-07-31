@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ho Hao Khang(Nayumi)</h1>
-<h3 align="center">A backend coder</h3>
+<h3 align="center">backend coder</h3>
 
 - 🌱 I’m currently learning **how to happy**
 
