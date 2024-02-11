@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **how to happy**
 
-- 👨‍💻 All of my projects are available at [https://apis.gq](https://apis.gq)
+- 👨‍💻 All of my projects are available at [https://apis.gq](https://nayu.gq)
 
-- 📫 Reach me at **nayumi@apis.gq**
+- 📫 Reach me at **nayumi@nayu.gq**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
