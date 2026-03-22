@@ -3,14 +3,14 @@
 
 - 🌱 I’m currently learning **how to happy**
 
-- 👨‍💻 All of my projects are available at [https://nayu.is-a.dev](https://nayu.moe)
+- 👨‍💻 All of my projects are available at [https://nayu.moe](https://nayu.moe)
 
 - 📫 Reach me at **nayumi@nayu.moe**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/nayumi" target="blank"><img align="center" src="https://raw.githubusercontent.com/nayumin/nayumin/main/devto.svg" alt="nayumi" height="30" width="40" /></a>
-<a href="https://fb.com/nakuruwu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nayumi.vnx" height="30" width="40" /></a>
+<a href="https://nayu.moe/fb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nayumi.vnx" height="30" width="40" /></a>
 <a href="https://instagram.com/nakuruwu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nayumi.vnx" height="30" width="40" /></a>
 </p>
 
